@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidDevelopment/Github Repo/AndroidTrivia-Starter/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidDevelopment/Github Repo/AndroidTrivia-Starter/app/src/main/res/layout/fragment_rules.xml" value="0.12771739130434784" />
         <entry key="..\:/AndroidDevelopment/Github Repo/AndroidTrivia-Starter/app/src/main/res/layout/fragment_title.xml" value="0.2" />
+        <entry key="..\:/AndroidDevelopment/Github Repo/AndroidTrivia-Starter/app/src/main/res/menu/navdrawer_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidDevelopment/Github Repo/AndroidTrivia-Starter/app/src/main/res/menu/options_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
